@@ -1,0 +1,61 @@
+header {
+  font-family: italic;
+  text-align: center;
+  color: white;
+  padding: 1px 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.74);
+  background-blend-mode: darken;
+  background-image: url("https://www.taglivros.com/blog/wp-content/uploads/2020/11/Estante_1-foto.png");
+  background-position: center;
+  background-size: cover;
+  min-height: 300px;
+  max-height: 300px;
+}
+ 
+infos {
+  position: center;
+  bottom: 0;
+  right: 0;
+}
+ 
+button {
+  position: center;
+  width: 32em;
+  width: flex;
+  height: 1em;
+  font-size: 1em;
+  border: none;
+  padding: auto;
+  margin: 4em;
+  margin-top: 190px;
+  background-color: transparent;
+  color: rgb(255, 255, 255);
+}
+ 
+.content{
+  font-family: 'Roboto Slab', serif;
+  font-size: 15pt;
+  position: center;
+  padding: 15px;
+  margin-top: 15px;
+}
+ 
+ 
+button:hover {
+  cursor: pointer;
+}
+ 
+form {
+  text-align: center;
+  margin-top: 100px;
+  border: none;
+  padding: auto;
+  width: flex;
+}
+ 
+ 
+ 
+ 
+ 
+
