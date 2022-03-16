@@ -20,6 +20,7 @@ infos {
 }
  
 button {
+  display: auto;
   position: center;
   width: 32em;
   width: flex;
@@ -45,7 +46,19 @@ button {
 button:hover {
   cursor: pointer;
 }
- 
+
+.links{
+  margin-top: 50px;
+}
+
+a{
+ display: flex;
+ list-style-type: none;
+ padding-right: 14px;
+ margin-block-start: 10px ;
+}
+
+
 form {
   text-align: center;
   margin-top: 100px;
@@ -54,6 +67,9 @@ form {
   width: flex;
 }
  
+.submit {
+  cursor: pointer;
+}
  
  
  
